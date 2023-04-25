@@ -9,3 +9,11 @@
 ```sh
 git clone <repo-url>
 ```
+
+3. Configure Vite with correct base URL
+
+```js
+export default defineConfig({
+  base: "/NAME_OF_REPOSITORY",
+});
+```
