@@ -18,6 +18,8 @@ export default defineConfig({
 });
 ```
 
+4. Personalize README template and rename
+
 ## Daily development Cycle
 
 1. Decide what to improve / create
