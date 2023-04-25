@@ -1,6 +1,6 @@
 # Template for a Vite React project
 
-## Usage
+## Setup
 
 1. Use the big green button to create a repo from the template
 
@@ -16,4 +16,18 @@ git clone <repo-url>
 export default defineConfig({
   base: "/NAME_OF_REPOSITORY",
 });
+```
+
+## Daily development Cycle
+
+1. Decide what to improve / create
+
+2. Implement what you have decided on
+
+3. Commit changes
+
+4. Deploy new version
+
+```sh
+npm run deploy
 ```
